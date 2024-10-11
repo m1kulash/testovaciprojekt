@@ -3,3 +3,6 @@
  - Lorem Ipsum edit
 
  -- Edit
+
+ -- toto je zmena, ktera probehla na vetvi
+ -- test test :)
